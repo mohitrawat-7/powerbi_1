@@ -52,7 +52,6 @@ clustered bar/column charts, KPI cards, slicers
 - **Tool:** Microsoft Power BI Desktop
 - **Data modelling:** Star schema with date tables per entity
 - **DAX measures:** Custom KPIs for ROI, churn, turnover, and profitability
-- **UX:** Storm theme, rounded card borders, cross-visual drill filtering
 - **Domains covered:** Marketing analytics, CRM, supply chain, product analytics
 
 Inventry Efficiency Analysis:
