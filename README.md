@@ -1,13 +1,11 @@
-# powerbi_1
-
-Enterprise Operations & Marketing Analytics Dashboard (Power BI)
+# Enterprise Operations & Marketing Analytics Dashboard (Power BI)
 
 # Power BI Business Intelligence Dashboards
 
 A collection of two multi-page Power BI dashboards covering end-to-end business analytics 
 across Marketing, Customer, Sales, and Supply Chain domains.
 
-## Dashboard 1 — Marketing & Customer Analytics
+## File 1: Dashboards_1 — Marketing & Customer Analytics
 
 ### Pages
 | Page | Focus |
@@ -27,7 +25,7 @@ KPI cards, pivot tables, slicers
 
 ---
 
-## Dashboard 2 — Sales, Inventory & Product Analytics
+## File 2: dashboards_2 — Sales, Inventory & Product Analytics
 
 ### Pages
 | Page | Focus |
@@ -48,7 +46,7 @@ clustered bar/column charts, KPI cards, slicers
 
 ---
 
-## Tools & Skills Demonstrated
+## Tools & Skills
 - **Tool:** Microsoft Power BI Desktop
 - **Data modelling:** Star schema with date tables per entity
 - **DAX measures:** Custom KPIs for ROI, churn, turnover, and profitability
