@@ -53,7 +53,7 @@ clustered bar/column charts, KPI cards, slicers
 - **Domains covered:** Marketing analytics, CRM, supply chain, product analytics
 
 ### Inventry Efficiency Analysis:
-![](https://github.com/mohitrawat-7/powerbi_1/blob/main/inventory%20efficiency%20analysis.png)
+![](https://github.com/mohitrawat-7/powerbi_1/blob/main/inventory%20efficiency.png)
 
 ### Geographic Sales Analysis:
 ![](https://github.com/mohitrawat-7/powerbi_1/blob/main/geographic%20sales.png)
