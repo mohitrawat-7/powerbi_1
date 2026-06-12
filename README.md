@@ -52,12 +52,11 @@ clustered bar/column charts, KPI cards, slicers
 - **DAX measures:** Custom KPIs for ROI, churn, turnover, and profitability
 - **Domains covered:** Marketing analytics, CRM, supply chain, product analytics
 
-Inventry Efficiency Analysis:
+### Inventry Efficiency Analysis:
 ![](https://github.com/mohitrawat-7/powerbi_1/blob/main/inventory%20efficiency%20analysis.png)
 
-Geographic Sales Analysis:
+### Geographic Sales Analysis:
 ![](https://github.com/mohitrawat-7/powerbi_1/blob/main/geographic%20sales.png)
 
-Customer Lifetime Value Analysis: 
+### Customer Lifetime Value Analysis:
 ![](https://github.com/mohitrawat-7/powerbi_1/blob/main/CLV.png)
-
