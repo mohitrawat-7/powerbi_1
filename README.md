@@ -5,6 +5,17 @@
 A collection of two multi-page Power BI dashboards covering end-to-end business analytics 
 across Marketing, Customer, Sales, and Supply Chain domains.
 
+## Dashboard Preview:
+
+### Inventry Efficiency Analysis:
+![](https://github.com/mohitrawat-7/powerbi_1/blob/main/inventory%20efficiency.png)
+
+### Geographic Sales Analysis:
+![](https://github.com/mohitrawat-7/powerbi_1/blob/main/geographic%20sales.png)
+
+### Customer Lifetime Value Analysis:
+![](https://github.com/mohitrawat-7/powerbi_1/blob/main/CLV.png)
+
 ## File 1: Dashboards_1 — Marketing & Customer Analytics
 
 ### Pages
@@ -52,11 +63,3 @@ clustered bar/column charts, KPI cards, slicers
 - **DAX measures:** Custom KPIs for ROI, churn, turnover, and profitability
 - **Domains covered:** Marketing analytics, CRM, supply chain, product analytics
 
-### Inventry Efficiency Analysis:
-![](https://github.com/mohitrawat-7/powerbi_1/blob/main/inventory%20efficiency.png)
-
-### Geographic Sales Analysis:
-![](https://github.com/mohitrawat-7/powerbi_1/blob/main/geographic%20sales.png)
-
-### Customer Lifetime Value Analysis:
-![](https://github.com/mohitrawat-7/powerbi_1/blob/main/CLV.png)
